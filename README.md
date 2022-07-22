@@ -10,7 +10,7 @@ gestures on various backgrounds, textures.
 3. Have also generated a GIF shwoing the different hand gestures formed.
 
 ## Images with Different Textures
-![Web App](https://github.com/ChakitBhandari/PRISM/blob/main/Image3.png = 100x100)
+<img src="https://github.com/ChakitBhandari/PRISM/blob/main/Image4.png" width="100" height="100">
 ![Web App](https://github.com/ChakitBhandari/PRISM/blob/main/Image4.png)
 
 1. A Python code was run on the above input images which basically involved the process in the below metioned steps:
