@@ -10,8 +10,8 @@ gestures on various backgrounds, textures.
 3. Have also generated a GIF shwoing the different hand gestures formed.
 
 ## Images with Different Textures
-<img src="https://github.com/ChakitBhandari/PRISM/blob/main/Image3.png" width="700" height="400">
-<img src="https://github.com/ChakitBhandari/PRISM/blob/main/Image4.png" width="700" height="400">
+<img src="https://github.com/ChakitBhandari/PRISM/blob/main/Image3.png" width="400" height="300">
+<img src="https://github.com/ChakitBhandari/PRISM/blob/main/Image4.png" width="400" height="300">
 
 1. A Python code was run on the above input images which basically involved the process in the below metioned steps:
   - Adding an alpha channel to the input images.
