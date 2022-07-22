@@ -8,7 +8,8 @@ project was to investigate the role of synthetic data in 3D hand pose estimation
 gestures on various backgrounds, textures.
 
 ## Images with Different Textures
-![Web App](https://github.com/ChakitBhandari/PRISM/blob/main/Image4.png) ![Web App](https://github.com/ChakitBhandari/PRISM/blob/main/Image3.png)
+![Web App](https://github.com/ChakitBhandari/PRISM/blob/main/Image2.png)
+![Web App](https://github.com/ChakitBhandari/PRISM/blob/main/Image3.png)
 
 1. A Python code was run on the above input images which basically involved the process in the below metioned steps:
   - Adding an alpha channel to the input images.
