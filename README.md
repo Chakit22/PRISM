@@ -14,7 +14,7 @@ gestures on various backgrounds, textures.
 <img src="https://github.com/ChakitBhandari/PRISM/blob/main/Image4.png" width="400" height="300">
 
 1. A Python code was run on the above input images which basically involved the process in the below metioned steps:
-  - Adding an alpha channel to the input images.
+  - Adding an alpha channel to the input images using the OpenCV Library.
   - Adding a background to the RGBA (Red,Green,Blue,Alpha) Images.
 
 ## Images with different Backgrounds
