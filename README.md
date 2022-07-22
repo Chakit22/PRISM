@@ -7,6 +7,8 @@ project was to investigate the role of synthetic data in 3D hand pose estimation
 2. Have generated a synthetic dataset of around 1k Images of different hand
 gestures on various backgrounds, textures.
 
+3. Have also generated a GIF shwoing the different hand gestures formed.
+
 ## Images with Different Textures
 ![Web App](https://github.com/ChakitBhandari/PRISM/blob/main/Image3.png)
 ![Web App](https://github.com/ChakitBhandari/PRISM/blob/main/Image4.png)
@@ -16,5 +18,4 @@ gestures on various backgrounds, textures.
   - Adding a background to the RGBA (Red,Green,Blue,Alpha) Images.
 
 ## Images with different Backgrounds
-![Web App](https://github.com/ChakitBhandari/Weather_Application/blob/main/WEBAPP.png)
-
+![Web App](https://github.com/ChakitBhandari/PRISM/blob/main/prism.png)
